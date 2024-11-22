@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning the Netherlands 
 - 💞️ I’m looking to collaborate on small projects while I teach myself coding
-- 📫 How to reach me ..
+- 📫 You can reach me here on Github
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
